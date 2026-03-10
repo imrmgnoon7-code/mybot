@@ -43,4 +43,5 @@ async def on_voice_state_update(member, before, after):
 
 # تشغيل السيرفر والبوت
 keep_alive()
+
 bot.run(TOKEN)
